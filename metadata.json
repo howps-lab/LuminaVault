@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Vault - Cloud Photo Storage",
+  "description": "Modern responsive photo upload, gallery, and lightbox application with Supabase authentication, PostgreSQL database, and cloud storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
